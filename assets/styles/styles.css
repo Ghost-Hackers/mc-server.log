@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif; /* Specify the default font family */
+    margin: 10px; /* Add some margin to the body */
+    background-color: black; /* Set the background color of the entire page */
+    color: white; /* Set the default text color */
+}
+
+/* Centered content */
+#center {
+    display: block; /* Make the element behave like a block element */
+    margin: 0 auto; /* Center the element */
+    text-align: center; /* Align the text to the center */
+}
+
+/* Custom message box */
+#customMessageBox {
+    background-color: black; /* Set the background color of the message box */
+    color: white; /* Set the text color of the message box */
+    border: 2px solid white; /* Set the border color of the message box */
+    padding: 10px; /* Add some padding */
+    border-radius: 5px; /* Round the corners of the message box */
+    display: none; /* Hide the message box by default */
+    position: fixed; /* Set the message box to be fixed */
+    top: 50%; /* Position the message box at the center of the screen */
+    left: 50%; /* Position the message box at the center of the screen */
+    transform: translate(-50%, -50%); /* Position the message box at the center of the screen */
+}
+
+/* Custom message box button */
+.button-container {
+    text-align: center; /* Align the buttons to the center */
+    margin-top: 10px; /* Add margin to the top */
+}
+
+/* Custom Banner image */
+.banner-image {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure it takes the full width of the container */
+    margin-bottom: 20px; /* Add margin if needed */
+}
