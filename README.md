@@ -178,10 +178,10 @@ Search Functionality: Add a search bar in the HTML file to quickly find specific
 <details>
   <summary>Downloads by Version</summary>
   <!-- Include download-related badges or information by version. -->
-  <strong>V1.0 Downloads</strong> <sup>[*Ongoing*]</sup> </br>
-    <img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/Ghost-Hackers/mc-server.log/v1.0.0/total?style=social">
+  <!--<strong>V1.0 Downloads</strong> <sup>[*Ongoing*]</sup> </br>
+    <img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/Ghost-Hackers/mc-server.log/v1.0.0/total?style=social"> -->
   </br>
-  <strong>V0.1 Downloads</strong> <sup>[*Discontinued*]</sup> </br>
+  <strong>V0.1 Downloads</strong> <sup>[*Unreleased*]</sup> </br>
     <img alt="GitHub release (by tag)" src="https://img.shields.io/github/downloads/Ghost-Hackers/mc-server.log/v0.1.0/total?style=social">
 </details>
 
